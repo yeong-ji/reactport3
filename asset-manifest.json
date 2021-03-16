@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reactport3/static/css/main.a3059f51.chunk.css",
-    "main.js": "/reactport3/static/js/main.6c1c8905.chunk.js",
-    "main.js.map": "/reactport3/static/js/main.6c1c8905.chunk.js.map",
+    "main.css": "/reactport3/static/css/main.d40f5cff.chunk.css",
+    "main.js": "/reactport3/static/js/main.f16c7f13.chunk.js",
+    "main.js.map": "/reactport3/static/js/main.f16c7f13.chunk.js.map",
     "runtime-main.js": "/reactport3/static/js/runtime-main.8f5e67aa.js",
     "runtime-main.js.map": "/reactport3/static/js/runtime-main.8f5e67aa.js.map",
     "static/js/2.7578a1ca.chunk.js": "/reactport3/static/js/2.7578a1ca.chunk.js",
     "static/js/2.7578a1ca.chunk.js.map": "/reactport3/static/js/2.7578a1ca.chunk.js.map",
     "index.html": "/reactport3/index.html",
-    "static/css/main.a3059f51.chunk.css.map": "/reactport3/static/css/main.a3059f51.chunk.css.map",
+    "static/css/main.d40f5cff.chunk.css.map": "/reactport3/static/css/main.d40f5cff.chunk.css.map",
     "static/js/2.7578a1ca.chunk.js.LICENSE.txt": "/reactport3/static/js/2.7578a1ca.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/reactport3/static/media/skill3.b169797b.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.8f5e67aa.js",
     "static/js/2.7578a1ca.chunk.js",
-    "static/css/main.a3059f51.chunk.css",
-    "static/js/main.6c1c8905.chunk.js"
+    "static/css/main.d40f5cff.chunk.css",
+    "static/js/main.f16c7f13.chunk.js"
   ]
 }
